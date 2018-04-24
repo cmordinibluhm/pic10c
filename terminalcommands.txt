@@ -1,0 +1,44 @@
+	
+	
+	bash 				opens bash command line (shell?)
+
+	exit				exits bash command line (shell?)	
+
+	. ~/.bashrc 			"sources" .bashrc (file where you put aliases)
+
+
+
+GIT COMMANDS
+
+	git init 			intialize a repo as a git repo
+
+	git add .			add all files or track all changes
+
+	git add [filenames] 		add or track changes from a specific file
+
+	git push			push the changes to the remote repo
+	
+	git status			display the current status of the project
+	
+	git log 			display the history of the project
+
+
+
+
+GENERAL TERMINAL COMMANDS
+
+	cd				go to the highest folder
+
+	cd ..				go up one folder
+
+	cd [foldername]			go to folder		
+
+	touch [filename]		create a file
+
+	nano [filename] 		create a file and open it or open existing file		-m for mouse
+
+	mv [current_name] [new_name]	rename a directory
+
+	rm [filename]			delete a file or directory PERMANENTLY			-r to delete folder contents recursively	prefix sudo to get permission
+
+	
