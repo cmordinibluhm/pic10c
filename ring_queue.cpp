@@ -103,6 +103,8 @@ public:
     //                          nested const iterator class                           //
     //--------------------------------------------------------------------------------//
         /**
+         
+         */
         class const_iterator{
             private:
                 RingQueue* parent;
@@ -120,7 +122,7 @@ public:
          
         }; //------------------------ end nested const iterator class -------------------
          
-        */
+    
 
     // Friendship goes both ways here.
     friend class iterator;
