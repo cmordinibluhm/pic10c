@@ -1,27 +1,5 @@
 # Here are some topics we've discussed during this quarter
 
-## Version Control Software (git)
-Among other things we talked about: 
-+ Bitbucket & Github
-+ Sourcetree & Github Desktop
-We then set up a couple of local repositories. One of them was managed via a Command Line Interface (CLI for short), whereas the other was managed via frontends (e.g., VS2015 and git gui). 
-
-You might also want to check out the following links: 
-+ Git tutorial (github)
-+ Learn SourceTree with BitBucket Cloud (bitbucket)
-+ GitHub Desktop User Guides
-+ Hello World in GitHub
-+ An Intro to Git and GitHub for Beginners
-If you decide that Graphical User Interfaces (GUI's) are not for you, then I highly recommend you bookmark these links: 
-+ Git Tutorial (local branching on the cheap). By the very same developers of git.
-+ Git FAQ. For specific everyday type of examples. 
-+ Pro Git (book). In case you want to be a Git-Fu master. Also available in several downloadable formats:
-++ PDF 
-++ EPUB
-++ MOBI
-
-# Here are some topics we've discussed during this quarter
-
 ## Move semantics 
 
 Among specific sub-topics we discussed:
@@ -71,7 +49,7 @@ Slicing and leaks via inheritance.
 Safe programming practices.
 The Memory Management Repository contains additional documentation that you might find helpful. 
 
-C++ STL containers 
+## C++ STL containers 
 
 Among specific sub-topics we discussed:
 
@@ -80,7 +58,7 @@ Complexity in running times for "typical" operations associated to every contain
 Details about their implementation. E.g: based on other containers, based on self-balancing binary search trees, etc.
 The STL containers repository contains a brief summary of some of the things we mentioned during lecture. 
 
-Introduction to Qt. 
+## Introduction to Qt. 
 
 Some of the notions that were introduced are:
 
@@ -90,7 +68,7 @@ Functions "being sent" as parameters to other functions.
 The repositories Qt-via-CLI, Qt-connections, as well as Qt-dots might come in handy at some point; be sure to check them out. 
 The series of examples in the Qt-via-CLI repository are lifted mostly taken from a pdf textbook found online (Google search: qt pdf book). You might want to read through the first chapter, especially if you want to be able to use Xcode and/or Visual Studio instead of Qt Creator. 
 
-Templates 
+## Templates 
 
 Among specific sub-topics we discussed:
 
@@ -100,7 +78,7 @@ Default parameter values, and default template paramater values.
 Setting policy: templates + function objects and/or function pointers.
 The repository 10c-templates contains examples that you might find helpful. Those same examples can be found in this [deprecated] repository, but you have to navigate through commits to access them. 
 
-Inheritance and polymorphism
+## Inheritance and polymorphism
 
 Among specific sub-topics we discussed:
 Syntax declaration and keywords (i.e., public, protected, and private).
@@ -113,7 +91,7 @@ In the future I hope to have a pdf handout with some additional remarks. In the 
 Also, a quick google search (inheritance polymorphism c++) should provide additional examples and/or explanations about these topics.
 
 
-Function pointers 
+## Function pointers 
 
 Among specific sub-topics we discussed:
 
@@ -125,22 +103,9 @@ There is a topic we did not discuss, but we will come back to it at some point, 
 Appending parenthesis to primitive types, classes, variables and objects functors.
 The repositories 10c-review-function-pointers, as well as 10c-function-pointers [deprecated] might come in handy at some point. Be sure to check them out. 
 
-Version Control Software (git)
+## Version Control Software (git)
+
 Among other things we talked about: 
 Bitbucket & Github
 Sourcetree & Github Desktop
 We then set up a couple of local repositories. One of them was managed via a Command Line Interface (CLI for short), whereas the other was managed via frontends (e.g., VS2015 and git gui). 
-
-You might also want to check out the following links: 
-Git tutorial (github)
-Learn SourceTree with BitBucket Cloud (bitbucket)
-GitHub Desktop User Guides
-Hello World in GitHub
-An Intro to Git and GitHub for Beginners
-If you decide that Graphical User Interfaces (GUI's) are not for you, then I highly recommend you bookmark these links: 
-Git Tutorial (local branching on the cheap). By the very same developers of git.
-Git FAQ. For specific everyday type of examples. 
-Pro Git (book). In case you want to be a Git-Fu master. Also available in several downloadable formats:
-PDF
-EPUB
-MOBI
